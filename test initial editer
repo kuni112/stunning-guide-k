@@ -1,3 +1,6 @@
+// just test program
+#include <stdio.h>
+
 int i;
 i = 1;
 printf("%d",i);
